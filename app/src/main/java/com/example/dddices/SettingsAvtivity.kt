@@ -13,6 +13,7 @@ class SettingsAvtivity : AppCompatActivity() {
         binding = ActivitySettingsAvtivityBinding.inflate(layoutInflater)
         setContentView(binding.root)
         setUpActionBar()
+        
     }
 
     //отвечает за кнопку возврата в экшн баре
